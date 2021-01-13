@@ -1,2 +1,2 @@
 # pattern-formation
-Simulation of reaction-diffusion equations in Mathematica
+Simulation of reaction-diffusion equations
